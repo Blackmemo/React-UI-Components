@@ -23,7 +23,7 @@ const App = () => {
         <GrayButton buttonText='7' />
         <GrayButton buttonText='8' />
         <GrayButton buttonText='9' />
-        <RedButton buttonText='X' />
+        <RedButton buttonText='x' />
       </div>
       <div className='row3'>
         <GrayButton buttonText='4' />
